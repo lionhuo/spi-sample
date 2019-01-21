@@ -3,11 +3,10 @@
  * <p>
  * Created on 2019/1/21.
  */
-package com.lionhuo.java.spi;
+package com.lionhuo.java;
 
-public class Man implements People {
-
+public class Woman implements People {
     public void say() {
-        System.out.println("this a Man");
+        System.out.println("this a Woman");
     }
 }

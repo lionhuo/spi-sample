@@ -3,7 +3,7 @@
  * <p>
  * Created on 2019/1/21.
  */
-package com.lionhuo.java.spi;
+package com.lionhuo.java;
 
 import java.util.ServiceLoader;
 
